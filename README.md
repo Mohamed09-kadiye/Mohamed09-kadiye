@@ -68,8 +68,8 @@ Passionate about crafting elegant solutions to complex problems. Open-source ent
 
 <img src="https://img.shields.io/badge/-Electrical%20Engineering-FFA116?style=for-the-badge&logo=autodesk&logoColor=white" />
 
-**4 Years in Father's Workshop**
-Gained hands-on experience and hard skills in electrical engineering
+**4 Years in My Father's Workshop**
+Gained hands-on experience and hard skills in electrical engineering at younger age
 
 </div>
 
