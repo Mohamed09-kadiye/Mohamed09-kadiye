@@ -1,76 +1,49 @@
 <div align="center">
-  <img src="https://github.com/Mohamed09-kadiye/Mohamed09-kadiye/raw/main/assets/ai-banner.gif" alt="AI-inspired banner" width="100%">
+  
+# Mohamed Abdinor
 
-  # Mohamed Abdinor
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdinor-7a7571185/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohamedabdinor75@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white)](#)
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/mohamed-abdinor-7a7571185/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:mohamedabdinor75@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-    <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-  </p>
+### 🚀 Full Stack Developer | AI Enthusiast | UI/UX Designer 🎨
 
-  <h3>🤖 Full Stack Developer & AI Enthusiast 🚀</h3>
 </div>
 
-<br>
+## 💡 About Me
 
-<p align="center">
-  <img src="https://github.com/Mohamed09-kadiye/Mohamed09-kadiye/raw/main/assets/ai-animation.gif" alt="AI Animation" width="200px">
-</p>
+<img align="right" src="https://img.shields.io/badge/-AI%20Enthusiast-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
 
-## 🧠 About Me
+Passionate about crafting elegant solutions to complex problems. Open-source enthusiast and continuous learner, thrilled by AI and its integration into cutting-edge applications. My mission is to push the boundaries of technology and create innovative solutions that shape the future.
 
-Passionate about crafting elegant solutions to complex problems. I'm an open-source enthusiast and continuous learner, thrilled by AI and its integration into cutting-edge applications. My mission is to push the boundaries of technology and create innovative solutions that shape the future.
+- 🔭 I'm currently working on AI-powered web applications
+- 🌱 I'm currently learning advanced machine learning techniques
+- 👯 I'm looking to collaborate on open-source AI projects
+- 💬 Ask me about full-stack development, AI integration, and UI/UX design
 
-### 🔮 Current Focus
-
-- 🤖 Exploring Large Language Models (LLMs) and open AI architectures
-- 🌐 Seamlessly integrating AI into web applications
-- 📱 Developing next-gen Progressive Web Apps (PWAs)
-- 🎨 Pushing the envelope in UI/UX design
+## 🔮 Current Focus
 
 <div align="center">
-  💻 
+
+| <img src="https://img.shields.io/badge/-LLMs-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> | <img src="https://img.shields.io/badge/-AI%20Web%20Apps-FF4088?style=for-the-badge&logo=pwa&logoColor=white" /> | <img src="https://img.shields.io/badge/-PWAs-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" /> | <img src="https://img.shields.io/badge/-UI%2FUX-FF61F6?style=for-the-badge&logo=figma&logoColor=white" /> |
+|:---:|:---:|:---:|:---:|
+| Exploring LLMs & Open AI | AI in Web Applications | Next-gen PWAs | Advanced UI/UX Design |
+
 </div>
 
-## 💻 Futuristic Projects
+## 💻 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Mohamed09-kadiye/Mohamed09-kadiye/raw/main/assets/project1.gif" width="300px" alt="E-commerce AI">
-      <br>
-      <strong>AI-Powered E-commerce Platform</strong>
-      <br>
-      Next.js | AI Recommendations | AR Try-On
-    </td>
-    <td align="center">
-      <img src="https://github.com/Mohamed09-kadiye/Mohamed09-kadiye/raw/main/assets/project2.gif" width="300px" alt="Smart Real Estate">
-      <br>
-      <strong>Smart Real Estate Ecosystem</strong>
-      <br>
-      React | IoT Integration | Predictive Analytics
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Mohamed09-kadiye/Mohamed09-kadiye/raw/main/assets/project3.gif" width="300px" alt="LLM Integration">
-      <br>
-      <strong>Advanced LLM Integration Suite</strong>
-      <br>
-<!--       Python | NLP | Transformer Architecture -->
-    </td>
-    <td align="center">
-      <img src="https://github.com/Mohamed09-kadiye/Mohamed09-kadiye/raw/main/assets/project4.gif" width="300px" alt="Futuristic PWA">
-      <br>
-      <strong>Next-Gen PWA Framework</strong>
-      <br>
-      JavaScript | WebAssembly | Edge Computing
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-## 🛠 Cutting-Edge Skills
+| Project | Description | Technologies |
+|:---:|:---|:---|
+| <img src="https://img.shields.io/badge/-E--commerce-83B81A?style=for-the-badge&logo=shopify&logoColor=white" /> | AI-Powered E-commerce Platform | Next.js, AI Recommendations, AR Try-On | beta
+| <img src="https://img.shields.io/badge/-Real%20Estate-2C39BD?style=for-the-badge&logo=zillow&logoColor=white" /> | Smart Real Estate Ecosystem | React, IoT Integration, Predictive Analytics |
+| <img src="https://img.shields.io/badge/-Hotel%20Management-FF5A5F?style=for-the-badge&logo=airbnb&logoColor=white" /> | Hotel Management System | Nextjs , postgresql, JavaScript ,nest js |
+
+</div>
+
+## 🛠 Tech Stack
 
 <div align="center">
 
@@ -82,24 +55,46 @@ Passionate about crafting elegant solutions to complex problems. I'm an open-sou
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/-AI%2FML-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </div>
 
-## 📊 AI-Enhanced GitHub Analytics
+## 🔧 Previous Experience
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/-Electrical%20Engineering-FFA116?style=for-the-badge&logo=autodesk&logoColor=white" />
+
+**4 Years in Father's Workshop**
+Gained hands-on experience and hard skills in electrical engineering
+
+</div>
+
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamed09-kadiye&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed09-kadiye&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
-
----
+## 🤝 Let's Connect
 
 <div align="center">
-  <br>
-  <strong>Crafting the Future of Tech | Mohamed Abdinor</strong>
-  <br>
-  <a href="https://github.com/Mohamed09-kadiye">https://github.com/Mohamed09-kadiye</a>
+
+Feel free to reach out for collaborations or just a friendly chat 😊
+
+[![Email](https://img.shields.io/badge/-mohamedabdinor75%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohamedabdinor75@gmail.com)
+[![Phone](https://img.shields.io/badge/-+252%20619%20101%20409-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+252619101409)
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  
+  **Crafting the Future of Tech | Mohamed Abdinor**
+  
+  [https://github.com/Mohamed09-kadiye](https://github.com/Mohamed09-kadiye)
 </div>
