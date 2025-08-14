@@ -6,7 +6,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mohamedabdinor75@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1DA1F2?style=for-the-badge&logo=react&logoColor=white)](#)
 
-<h3>🚀 Full Stack Web & Mobile Developer | AI Enthusiast | UI/UX Designer | Innovator</h3>
+<h3> Full Stack Web & Mobile Developer | AI Enthusiast | UI/UX Designer | Innovator</h3>
 
 </div>
 
