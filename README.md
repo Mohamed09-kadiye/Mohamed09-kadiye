@@ -106,7 +106,7 @@ I'm a passionate technologist blending full stack, mobile, and AI engineering wi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohamed09-kadiye&theme=radical" />
 
   <br>
-  <b>Over 2,000 commits across public, private, and organization projects!</b>
+  <b> commits across public, private, and organization projects!</b>
 </div>
 
 ---
