@@ -86,15 +86,7 @@ I'm a passionate technologist blending full stack, mobile, and AI engineering wi
 
 ## 🧰 Experience
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/-Electrical%20%26%20Mechanical%20Engineering-FFA116?style=for-the-badge&logo=autodesk&logoColor=white" />
-
-**Hands-on Technical Experience**  
-- 4+ years in my father's workshop, mastering practical electrical engineering and troubleshooting
-- Mechanical engineering experience, including automotive diagnostics and repair at a garage/workshop
-
-</div>
 
 ---
 
